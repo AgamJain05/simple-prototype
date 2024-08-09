@@ -25,6 +25,8 @@ const steps = [
     label: 'Action',
     description: `So First we need to look into urgency and quality of the output that the user needed to look and thing is maybe we can suggest the time and effort in deciding wheather to choose online mode or in built software(we need the user to decide wheather whats good for him by the stats of the software the useablity of the software :`,
   },
+
+  // one more label to then we will analyze the data and then we will suggest the best software for the user
 ];
 
 export default function VerticalLinearStepper() {
